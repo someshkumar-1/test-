@@ -4,3 +4,12 @@ const name = {
     burno,
     degea
 }
+
+const position{
+    goalkeeper,
+    defender,
+    full back,
+    midfeilder,
+    winger,
+    striker
+}
